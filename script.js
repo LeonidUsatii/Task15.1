@@ -1,4 +1,5 @@
-//const ListUl = document.getElementById('taskUl');
+// Необходимо получить массив объектов ToDO с сервера https://jsonplaceholder.typicode.com/users/1/todos 
+// используя fetch (см. код написанный в классе) и отобразить их на странице
 
 let url = 'https://jsonplaceholder.typicode.com/users/1/todos';
 
