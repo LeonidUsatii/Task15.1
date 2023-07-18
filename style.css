@@ -1,0 +1,17 @@
+.task {
+  width: 450px;
+  margin: 0 auto;
+}
+
+.task h1 {
+  text-align: center;
+  color: #1853209d;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  border-bottom: 1px solid #414243;
+}
